@@ -1,0 +1,7 @@
+{
+  "name": "AttendFace AI - Student Attendance System",
+  "description": "Institutional biometric facial recognition attendance system with live camera verification, student roster management, kiosk mode, and AI attendance analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
